@@ -62,3 +62,4 @@ function expression($a, $b, $c, $d){
 
 echo expression(5,5,5,5);
 require_once  'footer.php';
+echo "5";
